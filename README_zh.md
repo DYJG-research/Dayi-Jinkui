@@ -45,11 +45,11 @@
 如果您在研究或报告中使用了大医金匮，请引用如下：
 
 ```bibtex
-@misc{dayi_jinkui_tcm_llm,
+@misc{Dayi-Jinkui,
   title={大医金匮},
   author={DYJG-research},
   year={2025},
-  url={https://github.com/DYJG-research/大医金匮}
+  url={https://github.com/DYJG-research/Dayi-Jinkui}
 }
 ```
 
