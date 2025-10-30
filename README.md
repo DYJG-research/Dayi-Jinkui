@@ -48,9 +48,10 @@ If you use Dayi Jinkui in your research or reports, please cite as follows:
   title={Dayi Jinkui},
   author={DYJG-research},
   year={2025},
-  url={https://github.com/DYJG-research/大医金匮}
+  url={https://github.com/DYJG-research/Dayi-Jinkui}
 }
 ```
+
 
 
 
