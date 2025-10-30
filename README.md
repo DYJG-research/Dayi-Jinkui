@@ -44,13 +44,14 @@ The model outputs are for academic and educational reference only and do not con
 If you use Dayi Jinkui in your research or reports, please cite as follows:
 
 ```bibtex
-@misc{dayi_jinkui_tcm_llm,
+@misc{Dayi-Jinkui,
   title={Dayi Jinkui},
   author={DYJG-research},
   year={2025},
   url={https://github.com/DYJG-research/Dayi-Jinkui}
 }
 ```
+
 
 
 
